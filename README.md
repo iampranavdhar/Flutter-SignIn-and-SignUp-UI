@@ -5,7 +5,7 @@
 ## SignIn Screen
 | Screenshot | Gif |
 | --- | --- |
-| ![Screenshot_1609911384](https://user-images.githubusercontent.com/73348574/103744066-259c2680-5023-11eb-8faa-7a452eeb4cf8.png =250x100)| ![Screenrecorder-2021-01-06-11-51](https://user-images.githubusercontent.com/73348574/103744870-837d3e00-5024-11eb-8aa0-ed082b4509c2.gif) |
+| ![Screenshot_1609911384](https://user-images.githubusercontent.com/73348574/103744066-259c2680-5023-11eb-8faa-7a452eeb4cf8.png)| ![Screenrecorder-2021-01-06-11-51](https://user-images.githubusercontent.com/73348574/103744870-837d3e00-5024-11eb-8aa0-ed082b4509c2.gif) |
 
 
 ## SignUp Screen
