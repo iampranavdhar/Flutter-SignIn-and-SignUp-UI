@@ -5,13 +5,13 @@
 ## SignIn Screen
 | Screenshot | Gif |
 | --- | --- |
-| ![Screenshot_1609911384]("https://user-images.githubusercontent.com/73348574/103744066-259c2680-5023-11eb-8faa-7a452eeb4cf8.png" heigth="550" width="330")| ![Screenrecorder-2021-01-06-11-51]("https://user-images.githubusercontent.com/73348574/103744870-837d3e00-5024-11eb-8aa0-ed082b4509c2.gif" heigth="550" width="330") |
+<img src="https://user-images.githubusercontent.com/73348574/106507636-56239300-64f1-11eb-9081-4889106087f5.png" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/73348574/106507802-8c611280-64f1-11eb-912b-9bccb9a1e61e.gif" heigth="800" width="700"/>
 
 
 ## SignUp Screen
 | Screenshot | Gif |
 | --- | --- |
-| ![Screenshot_1609912174]("https://user-images.githubusercontent.com/73348574/103744217-68f69500-5023-11eb-86be-1e08ec3a4773.png" heigth="550" width="330") | ![Screenrecorder-2021-01-06-11-50]("https://user-images.githubusercontent.com/73348574/103744939-9d1e8580-5024-11eb-9bed-0f4109c110c0.gif" heigth="550" width="330") |
+<img src="https://user-images.githubusercontent.com/73348574/106508064-e95cc880-64f1-11eb-9452-6a1977559f71.png" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/73348574/106508016-de099d00-64f1-11eb-8d49-c77a9fd4579f.gif" heigth="800" width="700"/>
 
 
 
