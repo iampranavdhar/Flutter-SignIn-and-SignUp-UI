@@ -1,6 +1,6 @@
 # Flutter-SignIn-and-SignUp-UI
 
-![1-768x446](https://user-images.githubusercontent.com/73348574/103743863-ca6a3400-5022-11eb-89d4-75fd3f6a17f8.png)
+<img src="https://user-images.githubusercontent.com/73348574/103743863-ca6a3400-5022-11eb-89d4-75fd3f6a17f8.png" heigth="400" width="380"/>
 
 ## SignIn Screen
 | Screenshot | Gif |
