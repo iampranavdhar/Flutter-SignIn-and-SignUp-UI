@@ -2,7 +2,7 @@
 
 
 ## Screens
-![Phone Mockup Template](https://user-images.githubusercontent.com/73348574/115287816-533e5300-a16e-11eb-817b-90ec9d907de3.png)
+<img style='align-items:center' src="https://user-images.githubusercontent.com/73348574/115287816-533e5300-a16e-11eb-817b-90ec9d907de3.png" heigth="550" width="710" />
 
 
 ## Gifs
